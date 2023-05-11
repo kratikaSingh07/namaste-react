@@ -1,0 +1,7 @@
+What is Emmet 
+> Emmet is a tool or plugin that helps in faster development of html and css by converting the abbreviation into the code blocks. 
+    By default it is not enabled in React in Vs code. To enable it do Ctrl + P and search seetings.json 
+    Inside that add following code -  "emmet.includeLanguages": {
+            "javascript": "javascriptreact",
+            "typescript": "typescriptreact"
+          }
